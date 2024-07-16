@@ -8,23 +8,17 @@ keywords:
   - twitch emotes
   - twitch emote
 ---
-
 # $(twitchemotes)
-
 Outputs all available Twitch subscriber emotes
-
 #### Parameters
-
 This variable does not take any parameters.
-
 #### Example Input
-
 ```
 Subscriber emotes: ${twitchemotes}
 ```
-
 #### Example Output
 
 ```
-Subscriber emotes: stylerXD, stylerRIP
+
+Subscriber emotes: bennyl9Lurkboy
 ```
