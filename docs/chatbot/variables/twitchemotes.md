@@ -26,5 +26,5 @@ Subscriber emotes: ${twitchemotes}
 #### Example Output
 
 ```
-Subscriber emotes: stylerXD, stylerRIP
+Subscriber emotes: bennyl9Lurkboy
 ```
